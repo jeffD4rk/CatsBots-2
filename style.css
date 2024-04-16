@@ -164,6 +164,7 @@ section b {
 @media only screen and (max-width: 1000px) {
     .links {
         top: 1.5%;
+        flex-direction: row;
         font-size: 10px;
         margin-right:1px;
     }
