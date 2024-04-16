@@ -147,6 +147,9 @@ section b {
     text-shadow: #4e08ff 0 0 10px;
     text-decoration: line-through;
 }
+.links img:hover{
+    transform: scale(1.1);
+}
 
 .links {
     cursor:pointer ;
